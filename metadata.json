@@ -1,0 +1,6 @@
+{
+  "name": "King & Maya AI Assistant",
+  "description": "Futuristic JARVIS-inspired dual AI assistant featuring KING (deep male voice) and MAYA (sweet female voice) with Gujarati, Hindi, English multilingual intelligence, speech recognition, TTS, mobile app controls, and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
